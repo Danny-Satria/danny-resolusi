@@ -7,6 +7,7 @@ Rencana Project Danny
 - Membuat Website untuk project Situkang
   * Design untuk logo
   * Design untuk interface user
+  * Teknologi yang akan dipakai
 - Membuat Program Situkang
 - Membuat Website Perusahaan Royale 8 Karaoke
 - Membuat Website blog
