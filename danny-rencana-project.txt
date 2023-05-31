@@ -5,5 +5,8 @@ Rencana Project Danny
   * Website Landing Page untuk Danny
 - Membuat Website Landing page untuk tim
 - Membuat Website untuk project Situkang
+  * Design untuk logo
+  * Design untuk interface user
 - Membuat Program Situkang
 - Membuat Website Perusahaan Royale 8 Karaoke
+- Membuat Website blog
