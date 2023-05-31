@@ -3,6 +3,7 @@ Rencana Project Danny
 - Membuat Website Landing page untuk diri sendiri
   * Website Landing Page untuk Saeful
   * Website Landing Page untuk Danny
+  * Website Landing Page untuk Rizky
 - Membuat Website Landing page untuk tim
 - Membuat Website untuk project Situkang
   * Design untuk logo
